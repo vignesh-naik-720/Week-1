@@ -1,5 +1,5 @@
 # Week-1
-## Classifying the supply chain CSV into meaningful Power BI tables
+Classifying the supply chain CSV into meaningful Power BI tables
 By Vignesh Naik
 
 The "Sustainable Supply Chain Performance.csv" file was loaded onto Power BI and segregated into various tables from a single table to make it easy to understand and process.
